@@ -5,7 +5,7 @@
 // MCU Boards with ESP-12E
 // Objective: This sketch shows how to use an ESP8266 module to
 //   configure the Xilinx Spartan-6 FPGA device using the JTAG port.
-//   The bitstream file ("TOP.BIT") and its associated MD5 checksum file ("TOP.MD5")
+//   The bitstream file ("TOP.BIN") and its associated MD5 checksum file ("TOP.MD5")
 //   are stored in a microSD attached to the ESP8266 via the SPI bus.
 //   The MD5 checksum calculation is performed first before loading the bitstream.
 //   This sketch can successfully load the bitstream into the Xilinx Spartan 6SLX9
