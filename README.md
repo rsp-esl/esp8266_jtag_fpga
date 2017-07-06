@@ -13,4 +13,4 @@ are stored in a microSD attached to the ESP8266 via the SPI bus.<br>
 The MD5 checksum calculation is performed first before loading the bitstream.<br>
 This sketch can successfully load the test bitstream into the Xilinx Spartan 6SLX9 <br>
 FPGA device on the Mojo v3 board. <br>
-#Note that it works with a JTAG chain with a single device only.
+Note that it works with a JTAG chain with a single device only.
